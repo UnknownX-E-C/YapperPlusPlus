@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# IDE / user settings
+*.csproj.user
+.vs/
+.vscode/
+
+# OS junk
+Thumbs.db
+Desktop.ini
