@@ -5,4 +5,4 @@
 
 ## Requirements:
 {WebView2}(https://developer.microsoft.com/en-us/microsoft-edge/webview2/consumer)
-{.NET Runtime 6.0 Or Above}(https://dotnet.microsoft.com/en-us/download/dotnet)
+(.NET Runtime 6.0 Or Above){https://dotnet.microsoft.com/en-us/download/dotnet}
