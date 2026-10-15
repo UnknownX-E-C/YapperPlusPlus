@@ -1,6 +1,7 @@
 // YAP++
 // the original yap++ was made by @salami on yapper.
 
+// i did not make this
 // Feel free to learn from the code.
 // If you wish to make a fork of yap++ Then make sure to include this:
 // <h1>This tool is built on top of Yapp++ made by @salami on yapper.</h1>
