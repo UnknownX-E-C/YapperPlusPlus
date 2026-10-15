@@ -1,1 +1,1 @@
-
+console.log("Yapper++ Injected!");
