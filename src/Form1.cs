@@ -17,7 +17,7 @@ namespace YapperPlusPlus
         // =======================================================
 
         // ============ SET YOUR USERNAME / REPO / BRANCH ============
-        private const string GitHubRepo   = "YOUR_USERNAME/YapperPlusPlus";
+        private const string GitHubRepo = "UnknownX-E-C/YapperPlusPlus";
         private const string GitHubBranch = "main";
         private const string RawBase      = "https://raw.githubusercontent.com/"
                                             + GitHubRepo + "/" + GitHubBranch + "/";
