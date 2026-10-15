@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNaCfZZXptSt7fEHEIMNA9tHvkI97ekDdC57gBPXCIKepWrajLzC/rhoQ6PyEalDspPkaeDMJzwiDmTEbGHYZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MacBook Pro\\Desktop\\YapperPlusPlus\\YapperPlusPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MacBook Pro\\.nuget\\packages\\microsoft.web.webview2\\1.0.4258.31\\microsoft.web.webview2.1.0.4258.31.nupkg.sha512"
+  ],
+  "logs": []
+}
