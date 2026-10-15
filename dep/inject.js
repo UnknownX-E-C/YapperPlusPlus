@@ -10,7 +10,7 @@
 
 // here you can read the source code of a function which enables a plugin.
 
-console.log("wait 5 sec for it's ui to load (might freeze for 1-2 sec)")
+console.log("wait 5 sec for it's ui to load (might freeze for 1-2 sec)");
 
 (function() {
   function initYapPlusPlus() {
