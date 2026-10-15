@@ -52,4 +52,4 @@ Exe lands in `src/bin/Release/net6.0-windows/win-x64/publish/`
 | SmartScreen blocks it | **More info → Run anyway** |
 
 ## Credits:
-Vibe codded by [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) 💀
+Vibe codded by XES (nintendo in yapper)
