@@ -2087,7 +2087,6 @@ console.log("%cModified By @nintendo On Yapper", "color:#e27ed3;font-weight:bold
     PluginHost.register(imasigma);
     PluginHost.register(staffbadge);
     PluginHost.register(autoedit);
-    PluginHost.register(CommandBot);
 
     // and here you can read the actual yap++ menu injection itself
 
